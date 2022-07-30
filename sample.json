@@ -1,0 +1,74 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles":[
+    {
+      "source": { "id": "the-irish-times", "name": "The Irish Times" },
+      "author": "Janan Ganesh",
+      "title": "The Ukraine war is not about democracy versus autocracy",
+      "description": "US Politics: Joe Biden likely to need help of some illiberal states to prevail against Russia",
+      "url": "https://www.irishtimes.com/\t\t\t\t\t\t\t/news/world/us/the-ukraine-war-is-not-about-democracy-versus-autocracy-1.4833438\t",
+      "urlToImage": "https://www.irishtimes.com/image-creator/?id=1.4833436&origw=1440",
+      "publishedAt": "2022-03-22T17:29:04Z",
+      "content": "There is no discreet and low-key way of sending the Patriot antimissile system to another country, but Joe Biden is nothing if not a trier. The US president has left it to unnamed officials in his ad… [+4441 chars]"
+    },
+    {
+      "source": { "id": "the-globe-and-mail", "name": "The Globe And Mail" },
+      "author": "Lori Turnbull",
+      "title": "The Liberal-NDP deal is all about politics",
+      "description": "By striking a confidence-and-supply agreement, the Trudeau government and Jagmeet Singh’s party have much to gain, at the expense of the Conservatives",
+      "url": "https://www.theglobeandmail.com/opinion/article-the-liberal-ndp-deal-is-all-about-politics-not-policy-for-both-sides/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/ROMRXP5cVvZ5TOnxGdew1pyS06o=/1200x780/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/SOXXSFDMOVLVPNNIGLR2MY57NI.jpg",
+      "publishedAt": "2022-03-22T16:48:10Z",
+      "content": "Prime Minister Justin Trudeau says a deal has been struck with the NDP to prop up the minority Liberal government until 2025 in exchange for parliamentary co-operation and progress on key NDP policie… [+4945 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Canada's NDP agrees to support Trudeau's Liberals until 2025",
+      "description": "PM Justin Trudeau says deal between the Liberals and NDP will bring stability to Canadian politics.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-60837941",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E076/production/_123826475_gettyimages-1239228819.jpg",
+      "publishedAt": "2022-03-22T15:07:20.8095229Z",
+      "content": "Image source, Getty Images\r\nImage caption, Prime Minister Justin Trudeau says the deal between the Liberals and NDP will mean the government can deliver more to Canadians\r\nCanadian Prime Minister Jus… [+2181 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-times",
+        "name": "The Washington Times"
+      },
+      "author": "The Washington Times http://www.washingtontimes.com",
+      "title": "Latest Quizzes",
+      "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+      "url": "https://www.washingtontimes.com/quiz/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/ROMRXP5cVvZ5TOnxGdew1pyS06o=/1200x780/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/SOXXSFDMOVLVPNNIGLR2MY57NI.jpg",
+      "publishedAt": "2021-02-10T03:52:37.2719772Z",
+      "content": "Featured Quizzes\r\nAttention all William Shakespeare experts. Pinpoint the prose's origin plucked from one of his many famous plays in this multiple-choice challenge.\r\n Shares \r\nName these legendary c… [+32652 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-times",
+        "name": "The Washington Times"
+      },
+      "author": "The Washington Times http://www.washingtontimes.com",
+      "title": "Latest Quizzes",
+      "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+      "url": "https://www.washingtontimes.com/quiz/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/ROMRXP5cVvZ5TOnxGdew1pyS06o=/1200x780/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/SOXXSFDMOVLVPNNIGLR2MY57NI.jpg",
+      "publishedAt": "2021-02-10T03:52:37.2719772Z",
+      "content": "Featured Quizzes\r\nAttention all William Shakespeare experts. Pinpoint the prose's origin plucked from one of his many famous plays in this multiple-choice challenge.\r\n Shares \r\nName these legendary c… [+32652 chars]"
+    },
+    {
+      "source": { "id": "the-jerusalem-post", "name": "The Jerusalem Post" },
+      "author": null,
+      "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+      "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+      "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+      "publishedAt": "2019-11-13T04:41:00Z",
+      "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+    }
+  ]
+}
+
+
